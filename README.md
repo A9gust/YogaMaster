@@ -66,18 +66,16 @@ With its advanced posture recognition and personalized recommendation capabiliti
 `Refer to project report at Github Folder: ProjectReport`
 
 **Recommended Sections for Project Report / Paper:**
-- Introduction	
-- Market Research	
-- Business Value	
-- Objectives of Project	
-- Overview of Dataset	
-- System Design		
-- System Development & Implementation	
-- Findings and Discussion	
-- Appendix A: Project Proposal	
-- Appendix B: Mapped System Functionalities Against Knowledge	
-- Appendix C: Installation & User Guide	
-- Appendix D: Individual Report
+- Introduction
+- Market Research
+- Business Value
+- Objectives of Project
+- Overview of Dataset
+- System Design
+- System Development & Implementation
+- Findings and Discussion
+- Appendix 1: Mapped System Functionalities Against Knowledge
+- Appendix 2: Installation & User Guide
 
 ---
 ## SECTION 7 : MISCELLANEOUS

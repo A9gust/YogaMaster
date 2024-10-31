@@ -24,7 +24,7 @@ With its advanced posture recognition and personalized recommendation capabiliti
 | :------------ |:---------------:| :-----| :-----|
 | Dong Yuantong | A0292041N | Frontend and backend development, Pose recommendation & voice-to-text module, Assist with pose recognition and feedback, Write pre scripts and report, Coordinate team tasks to ensure progress| e1337515@u.nus.edu |
 | Li Qiuxian | A0297598X | Refine YOLO Model, Data Preprocessing, Pose Estimation Development, Backend Development, Demo Presentation, Write Report| e1351736@u.nus.edu |
-| Gao Yunjia | A0295502E | Recommend algorithm Development, NLP component development, UI-Design, Video Presentation, Write Report| e1349640@u.nus.edu  |
+| Gao Yunjia | A0295502E | Pose Estimation and Comparison Algorithm Development, Backend Development, Frontend-Backend Integration, Video Presentation, Write Report| e1349640@u.nus.edu  |
 | Zhao Lanting | A0297676A | Recommend algorithm Development, NLPcomponent development, Ul-Design, VideoPresentation, Write Report| e1351814@u.nus.edu |
 | Liu Weixuan | A0295682M | Recommend algorithm Development, Video Presentation, Collect and clean dataset, Write Report| e1349820@u.nus.edu |
 

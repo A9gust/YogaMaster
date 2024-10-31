@@ -83,11 +83,12 @@ With its advanced posture recognition and personalized recommendation capabiliti
 
 `Refer to Github Folder: Miscellaneous`
 
-### la0730.csv
-* Dataset of hotel name and information
-* The most basic hotel database used by the system
-### trainset.csv
-* Combined with clustering result and rating matrix
-* Use to train a model for CF algorithm
+### yoga_pose
+* Dataset of differnt yoga poses and images
+* Yoga poses and images used by YogaMaster system
+### yolo_finetune_data
+* Combined with yoga pose and key-points labels
+* Yoga images with manually labeling key-points
+* Use to refine the yolo model
 
 

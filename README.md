@@ -50,12 +50,12 @@ With its advanced posture recognition and personalized recommendation capabiliti
 
 > open terminal in our local fold file
 
-> $ git clone https://github.com/A9gust/HotelRecommendationSystem.git
+> $ git clone https://github.com/A9gust/YogaMaster.git
 
-> $ cd HotelRecommendationSystem
+> $ cd YoloMaster/yogamasterai-chat
 
 > $ npm run serve
-> $ cd HotelRecommendationSystem/backend
+> $ cd YogaMaster/yogamasterai-chat/backend
 
 > $ npm run serve
 

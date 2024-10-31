@@ -32,7 +32,8 @@ With its advanced posture recognition and personalized recommendation capabiliti
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Hotel Recommender System](https://raw.githubusercontent.com/A9gust/HotelRecommendationSystem/refs/heads/main/SystemCode/Static/v_page.png)](https://youtu.be/F4kCaQEHqL8 "Hotel Recommender System")
+<img src="SystemCode/static/79c27c4f40e3e4f8845ec711b09953c.png"
+     style="float: left; margin-right: 0px;" />
 
 ---
 

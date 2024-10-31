@@ -3,7 +3,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## Yoga Master
 
-<img src="SystemCode/Static/page.png"
+<img src="SystemCode/Static/79c27c4f40e3e4f8845ec711b09953c.png"
      style="float: left; margin-right: 0px;" />
 
 ---

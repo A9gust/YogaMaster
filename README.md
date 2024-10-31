@@ -51,11 +51,10 @@ With its advanced posture recognition and personalized recommendation capabiliti
 
 > $ git clone https://github.com/A9gust/HotelRecommendationSystem.git
 
+> $ cd HotelRecommendationSystem
+
+> $ npm run serve
 > $ cd HotelRecommendationSystem/backend
-
-> $ python app.py
-
-> $ cd HotelRecommendationSystem/hotel-recommendation
 
 > $ npm run serve
 

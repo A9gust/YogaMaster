@@ -1,7 +1,7 @@
 
 
 ## SECTION 1 : PROJECT TITLE
-## Hotel Recommender System
+## Yoga Master
 
 <img src="SystemCode/Static/page.png"
      style="float: left; margin-right: 0px;" />

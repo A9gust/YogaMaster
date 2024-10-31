@@ -32,7 +32,7 @@ With its advanced posture recognition and personalized recommendation capabiliti
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-<img src="SystemCode/static/79c27c4f40e3e4f8845ec711b09953c.png"
+<img src="Video/video.png"
      style="float: left; margin-right: 0px;" />
 
 ---
